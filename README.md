@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 
-📂 [View Executive Presentation](presentation/The%20Sales%20Tracker%20Dashboard.pptx)
+📂 [View Executive Presentation]([presentation/The%20Sales%20Tracker%20Dashboard.pptx](https://docs.google.com/presentation/d/1qlYfOFJQ8B9QK_ZbXqXXYZF_U0KKfRWoaPExPOAoqys/edit?usp=sharing))
 
 Retail business intelligence dashboard project analyzing branch performance, product contribution, and sales trends to support executive decision-making.
 
