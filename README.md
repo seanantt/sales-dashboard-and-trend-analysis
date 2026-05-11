@@ -31,37 +31,16 @@ How can TokoMart Indonesia improve business visibility and generate actionable i
 
 # Key Insights
 
-**Electronics Dominated Revenue**
+# Key Insights
 
-Electronics contributed the largest portion of total revenue despite having lower transaction volume compared to Fashion products. High-ticket products became the primary driver of business profitability.
+✨ **Electronics** became the strongest revenue contributor across all product categories.
 
-**Strong Weekend Sales Performance**
+📈 **Weekend sales** consistently performed higher than weekdays, indicating stronger customer activity during weekends.
 
-Weekend sales consistently outperformed weekday sales, indicating higher customer activity and stronger purchasing behavior during Saturdays and Sundays.
+💳 **Payday periods (1–5)** generated noticeable increases in customer spending behavior.
 
-This creates opportunities for:
-- Additional staffing allocation
-- Weekend inventory prioritization
-- Peak-hour operational optimization
+🏪 **Branch performance gaps** revealed opportunities for operational improvement and strategic optimization.
 
-**Payday Spending Effect**
-
-Sales performance increased significantly during the first five days of each month, showing predictable customer spending behavior during payday periods.
-
-This insight supports:
-- Better promotion scheduling
-- Higher campaign effectiveness
-- More strategic product targeting
-
-**Branch Performance Gap**
-
-A noticeable performance gap exists between top-performing and lower-performing branches, indicating operational and market differences across locations.
-
-Potential contributing factors:
-- Local demand characteristics
-- Branch execution quality
-- Staffing effectiveness
-- Area purchasing power
 ---
 
 # Dashboard Preview
