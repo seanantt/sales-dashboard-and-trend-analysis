@@ -4,6 +4,9 @@
 ![Excel](https://img.shields.io/badge/Excel-Data_Processing-217346?logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+
+📂 [View Executive Presentation](presentation/The%20Sales%20Tracker%20Dashboard.pptx)
+
 Retail business intelligence dashboard project analyzing branch performance, product contribution, and sales trends to support executive decision-making.
 
 ![Dashboard Preview](image/dashboard.png)
