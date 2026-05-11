@@ -31,8 +31,6 @@ How can TokoMart Indonesia improve business visibility and generate actionable i
 
 # Key Insights
 
-# Key Insights
-
 ✨ **Electronics** became the strongest revenue contributor across all product categories.
 
 📈 **Weekend sales** consistently performed higher than weekdays, indicating stronger customer activity during weekends.
