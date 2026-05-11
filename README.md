@@ -25,6 +25,7 @@ Promotional strategies are still driven largely by assumptions, without clear in
 Raw POS data contains multiple inconsistencies and anomalies, requiring significant manual data cleaning.
 
 As a result, the company risks losing growth opportunities, misallocating inventory, and making decisions based on incomplete or inaccurate information.
+
 ---
 
 # Key Insights
