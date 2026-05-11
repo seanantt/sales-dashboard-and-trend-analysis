@@ -1,13 +1,13 @@
 # Sales Dashboard & Trend Analysis
 
-![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow)
-![Excel](https://img.shields.io/badge/SQL-Database-blue)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-Data_Processing-217346?logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 
 Retail business intelligence dashboard project analyzing branch performance, product contribution, and sales trends to support executive decision-making.
 
-![Dashboard Preview](dashboard/screenshots/overview.png)
+![Dashboard Preview](image/dashboard.png)
 
 ---
 
@@ -25,48 +25,6 @@ Promotional strategies are still driven largely by assumptions, without clear in
 Raw POS data contains multiple inconsistencies and anomalies, requiring significant manual data cleaning.
 
 As a result, the company risks losing growth opportunities, misallocating inventory, and making decisions based on incomplete or inaccurate information.
-
----
-
-# Key Insights
-
-## Electronics Dominate Revenue
-- Contributed **78%** of total revenue
-- High-value products drive profitability
-
-## Weekend Sales Surge
-- Weekend sales increased by **35%**
-- Strong opportunity for staffing & stock optimization
-
-## Payday Effect
-- Sales increased by **30%** during days 1–5
-- Ideal timing for promotions
-
-## Branch Performance Gap
-- Jakarta South ranked highest
-- 23.8% gap vs lowest-performing branch
-
----
-
-# Dashboard Features
-
-- Revenue by Branch
-- Product Category Analysis
-- Daily Sales Trend
-- Weekend vs Weekday Comparison
-- Payday Analysis
-- KPI Monitoring
-
----
-
-# Tools Used
-
-| Tools | Purpose |
-|---|---|
-| Power BI | Dashboard Visualization |
-| SQL | Data Querying |
-| Python | Data Cleaning |
-| Excel | Validation |
 
 ---
 
