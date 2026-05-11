@@ -18,10 +18,10 @@ This dashboard is designed to provide clear business visibility for key stakehol
 
 The company is currently facing several critical challenges that limit effective decision-making:
 
-Sales and inventory data are delayed by 2–3 days, making it difficult to respond quickly to high-demand periods such as Ramadan and Lebaran.  
-Management lacks visibility into which branches are outperforming and which require additional investment or operational attention.  
-Promotional strategies are still driven largely by assumptions, without clear insights into the most effective timing or campaign periods.  
-Raw POS data contains multiple inconsistencies and anomalies, requiring significant manual data cleaning.
+> Sales and inventory data are delayed by 2–3 days, making it difficult to respond quickly to high-demand periods such as Ramadan and Lebaran.  
+> Management lacks visibility into which branches are outperforming and which require additional investment or operational attention.  
+> Promotional strategies are still driven largely by assumptions, without clear insights into the most effective timing or campaign periods.  
+> Raw POS data contains multiple inconsistencies and anomalies, requiring significant manual data cleaning.
 
 As a result, the company risks losing growth opportunities, misallocating inventory, and making decisions based on incomplete or inaccurate information.
 
@@ -45,19 +45,19 @@ How can TokoMart Indonesia improve business visibility and generate actionable i
 
 ## Revenue per Branch
 
-![Branch Dashboard](dashboard/screenshots/branch_analysis.png)
+![Branch Dashboard](image/revenuebranch.png)
 
 ---
 
 ## Product Category Analysis
 
-![Product Dashboard](dashboard/screenshots/product_analysis.png)
+![Product Dashboard](image/revenuecategory.png)
 
 ---
 
 ## Trend Analysis
 
-![Trend Dashboard](dashboard/screenshots/trend_analysis.png)
+![Trend Dashboard](image/trendanalysis.png)
 
 ---
 
@@ -67,35 +67,6 @@ How can TokoMart Indonesia improve business visibility and generate actionable i
 - Run promotions during payday period (1–5)
 - Investigate underperforming branches
 - Optimize staffing during peak sales periods
-
----
-
-# Tools Used
-
-| Tool | Purpose |
-|---|---|
-| Power BI | Dashboard Visualization |
-| Excel | Data Cleaning & Validation |
-| Power Query | Data Transformation |
-| DAX | KPI & Metric Calculation |
-
----
-
-# Project Structure
-
-```bash
-sales-dashboard-and-trend-analysis/
-│
-├── dashboard/
-│   ├── screenshots/
-│   └── sales_dashboard.pbix
-│
-├── data/
-│
-├── presentation/
-│
-└── README.md
-```
 
 ---
 
